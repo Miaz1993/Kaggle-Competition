@@ -4,6 +4,6 @@ A collection of a series of Kaggle Competitions i did
 
 Including：
 ## 1）Allstate Claims Severity
-## 2) Housing Price Prediction
+## 2) Housing Price Prediction Top 3%
 ## 3) IEEE Fraud Detection
 
